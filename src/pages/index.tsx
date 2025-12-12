@@ -21,7 +21,7 @@ export default function Home() {
       }}>
         <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>🚀 SEO-Forge</h1>
         <p style={{ fontSize: '1.25rem', opacity: 0.9 }}>Your SEO-optimized website is ready!</p>
-        <p style={{ marginTop: '2rem', opacity: 0.7 }}>Generated on 2025-12-11T10:35:55.480Z</p>
+        <p style={{ marginTop: '2rem', opacity: 0.7 }}>Generated on 2025-12-12T03:45:42.363Z</p>
       </main>
     </>
   )
