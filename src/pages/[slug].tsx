@@ -1,6 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Head from 'next/head';
-import contentIndex from '../../content/index.json';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
@@ -10,6 +9,13 @@ interface PageProps {
   description: string;
   h1: string;
   content: string;
+  slug: string;
+}
+
+interface ContentItem {
+  id: string;
+  type: string;
+  title: string;
   slug: string;
 }
 
@@ -40,7 +46,12 @@ export default function ContentPage({ title, description, h1, content, slug }: P
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = contentIndex.map((item: any) => ({
+  // Load content index at build time
+  const indexPath = path.join(process.cwd(), 'content', 'index.json');
+  const indexContent = fs.readFileSync(indexPath, 'utf8');
+  const contentIndex: ContentItem[] = JSON.parse(indexContent);
+  
+  const paths = contentIndex.map((item) => ({
     params: { slug: item.slug }
   }));
   
@@ -55,9 +66,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   
   return {
     props: {
-      title: data.title,
-      description: data.description,
-      h1: data.h1,
+      title: data.title || '',
+      description: data.description || '',
+      h1: data.h1 || '',
       content,
       slug
     }
