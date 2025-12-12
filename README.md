@@ -11,6 +11,14 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to see the result.
 
+## Content Structure
+
+
+This site includes AI-generated content:
+- `/content/` - MDX content files for each page
+- `/content/index.json` - Content index for easy loading
+
+
 ## Deployment
 
 This repository is configured for automatic deployment via Vercel.
@@ -22,7 +30,8 @@ This repository is configured for automatic deployment via Vercel.
 - ✅ SEO-optimized robots.txt
 - ✅ Core Web Vitals optimized
 - ✅ TypeScript support
+- ✅ AI-generated SEO content
 
 ---
 
-*Generated on 2025-12-12T03:54:21.424Z*
+*Generated on 2025-12-12T04:02:48.664Z*
