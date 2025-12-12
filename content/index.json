@@ -1,106 +1,246 @@
 [
   {
+    "id": "home",
+    "type": "home",
+    "title": "Aixster - The complete solution for modern businesses",
+    "slug": "index",
+    "path": "/content/index.mdx"
+  },
+  {
+    "id": "pricing",
+    "type": "pricing",
+    "title": "Aixster Pricing",
+    "slug": "pricing",
+    "path": "/content/pricing.mdx"
+  },
+  {
+    "id": "contact",
+    "type": "contact",
+    "title": "Contact Aixster",
+    "slug": "contact",
+    "path": "/content/contact.mdx"
+  },
+  {
+    "id": "comparisons-index",
+    "type": "comparison",
+    "title": "Aixster Comparisons",
+    "slug": "comparisons",
+    "path": "/content/comparisons.mdx"
+  },
+  {
+    "id": "comparison-1",
+    "type": "comparison",
+    "title": "Aixster vs Weglot",
+    "slug": "comparisons-aixster-vs-weglot",
+    "path": "/content/comparisons-aixster-vs-weglot.mdx"
+  },
+  {
+    "id": "comparison-2",
+    "type": "comparison",
+    "title": "Aixster vs Localizejs",
+    "slug": "comparisons-aixster-vs-localizejs",
+    "path": "/content/comparisons-aixster-vs-localizejs.mdx"
+  },
+  {
+    "id": "comparison-3",
+    "type": "comparison",
+    "title": "Aixster vs Conveythis",
+    "slug": "comparisons-aixster-vs-conveythis",
+    "path": "/content/comparisons-aixster-vs-conveythis.mdx"
+  },
+  {
+    "id": "customers-index",
+    "type": "case-study",
+    "title": "Aixster Customer Stories",
+    "slug": "customers",
+    "path": "/content/customers.mdx"
+  },
+  {
+    "id": "case-techstart",
+    "type": "case-study",
+    "title": "TechStart Inc Case Study",
+    "slug": "customers-techstart",
+    "path": "/content/customers-techstart.mdx"
+  },
+  {
+    "id": "case-enterprise",
+    "type": "case-study",
+    "title": "Enterprise Solutions Co Case Study",
+    "slug": "customers-enterprise-solutions",
+    "path": "/content/customers-enterprise-solutions.mdx"
+  },
+  {
+    "id": "case-growthlabs",
+    "type": "case-study",
+    "title": "GrowthLabs Agency Case Study",
+    "slug": "customers-growthlabs",
+    "path": "/content/customers-growthlabs.mdx"
+  },
+  {
+    "id": "glossary-index",
+    "type": "glossary",
+    "title": "Aixster Glossary",
+    "slug": "glossary",
+    "path": "/content/glossary.mdx"
+  },
+  {
+    "id": "glossary-api",
+    "type": "glossary",
+    "title": "What is API Integration?",
+    "slug": "glossary-api-integration",
+    "path": "/content/glossary-api-integration.mdx"
+  },
+  {
+    "id": "glossary-saas",
+    "type": "glossary",
+    "title": "What is SaaS (Software as a Service)?",
+    "slug": "glossary-saas",
+    "path": "/content/glossary-saas.mdx"
+  },
+  {
+    "id": "glossary-workflow",
+    "type": "glossary",
+    "title": "What is Workflow Automation?",
+    "slug": "glossary-workflow-automation",
+    "path": "/content/glossary-workflow-automation.mdx"
+  },
+  {
+    "id": "glossary-digital",
+    "type": "glossary",
+    "title": "What is Digital Transformation?",
+    "slug": "glossary-digital-transformation",
+    "path": "/content/glossary-digital-transformation.mdx"
+  },
+  {
+    "id": "glossary-success",
+    "type": "glossary",
+    "title": "What is Customer Success?",
+    "slug": "glossary-customer-success",
+    "path": "/content/glossary-customer-success.mdx"
+  },
+  {
+    "id": "about",
+    "type": "trust",
+    "title": "About Aixster",
+    "slug": "about",
+    "path": "/content/about.mdx"
+  },
+  {
+    "id": "privacy-policy",
+    "type": "legal",
+    "title": "Privacy Policy",
+    "slug": "privacy-policy",
+    "path": "/content/privacy-policy.mdx"
+  },
+  {
+    "id": "terms-of-service",
+    "type": "legal",
+    "title": "Terms of Service",
+    "slug": "terms-of-service",
+    "path": "/content/terms-of-service.mdx"
+  },
+  {
     "id": "pillar-1",
     "type": "pillar",
-    "title": "Aixster: Lovable Multilingual Solutions",
+    "title": "Aixster: Lovable Multilingual Solution for Global Reach",
     "slug": "lovable-multilingual-solution",
     "path": "/content/lovable-multilingual-solution.mdx"
   },
   {
     "id": "pillar-2",
     "type": "pillar",
-    "title": "AI-Powered Translation for Loved CMS | Aixster",
+    "title": "AI-Powered Translation for CMS | Aixster",
     "slug": "1-ai-powered-translation-solution-for-lovable-cms",
     "path": "/content/1-ai-powered-translation-solution-for-lovable-cms.mdx"
   },
   {
     "id": "article-1",
     "type": "article",
-    "title": "Get Started with Aixster in Minutes - Effortless Translation",
+    "title": "Get Started in Minutes with Aixster: Fast, AI-Powered Translation",
     "slug": "get-started-in-minutes",
     "path": "/content/get-started-in-minutes.mdx"
   },
   {
     "id": "article-2",
     "type": "article",
-    "title": "Effortless Translation Management | Aixster",
+    "title": "Manage Your Translations with Ease | Aixster AI",
     "slug": "easily-manage-your-translations",
     "path": "/content/easily-manage-your-translations.mdx"
   },
   {
     "id": "article-3",
     "type": "article",
-    "title": "Reach visitors all over the world",
+    "title": "Global Reach with Aixster: Translate Your Website Today",
     "slug": "reach-visitors-all-over-the-world",
     "path": "/content/reach-visitors-all-over-the-world.mdx"
   },
   {
     "id": "article-4",
     "type": "article",
-    "title": "Go multilingual with ease",
+    "title": "Go Multilingual with Ease using Aixster's Translation Solution",
     "slug": "go-multilingual-with-ease",
     "path": "/content/go-multilingual-with-ease.mdx"
   },
   {
     "id": "article-5",
     "type": "article",
-    "title": "Join thousands of satisfied Weglot users",
+    "title": "Join Thousands of Satisfied Weglot Users with Aixster",
     "slug": "join-thousands-of-satisfied-weglot-users",
     "path": "/content/join-thousands-of-satisfied-weglot-users.mdx"
   },
   {
     "id": "article-6",
     "type": "article",
-    "title": "Aixster Product Demo: See Our Translation Solution in Action",
+    "title": "Experience the Power of Aixster: Book Your Demo Today",
     "slug": "take-a-product-demo",
     "path": "/content/take-a-product-demo.mdx"
   },
   {
     "id": "article-7",
     "type": "article",
-    "title": "Get Started with Aixster - Seamless Website Integration",
+    "title": "Get Started with Aixster: Fast, AI-Powered Website Translation",
     "slug": "learn-how-to-get-started",
     "path": "/content/learn-how-to-get-started.mdx"
   },
   {
     "id": "article-8",
     "type": "article",
-    "title": "Lovable Integration: Your FAQs Answered by Aixster",
+    "title": "Lovable Integration with Aixster: Your Questions Answered",
     "slug": "frequently-asked-questions-about-lovable-integrati",
     "path": "/content/frequently-asked-questions-about-lovable-integrati.mdx"
   },
   {
     "id": "article-9",
     "type": "article",
-    "title": "Weglot Free Trial: Multilingual Websites Made Easy",
+    "title": "Weglot is Free: Try Now with Aixster!",
     "slug": "weglot-is-free-try-now",
     "path": "/content/weglot-is-free-try-now.mdx"
   },
   {
     "id": "article-10",
     "type": "article",
-    "title": "Effortless Localization: Lovable & Aixster Integration",
+    "title": "Effortless Localization with Aixster for Lovable",
     "slug": "effortless-localization-for-lovable",
     "path": "/content/effortless-localization-for-lovable.mdx"
   },
   {
     "id": "article-11",
     "type": "article",
-    "title": "Effortless Setup: Aixster Integrates Seamlessly",
+    "title": "Aixster: Effortless Setup, Global-Ready in Minutes",
     "slug": "effortlessly-set-up-in-no-time",
     "path": "/content/effortlessly-set-up-in-no-time.mdx"
   },
   {
     "id": "article-12",
     "type": "article",
-    "title": "Aixster: Your FAQ Answered - Global Translation",
+    "title": "Aixster FAQ: Automated Translation & Global Readiness",
     "slug": "frequently-asked-questions",
     "path": "/content/frequently-asked-questions.mdx"
   },
   {
     "id": "article-13",
     "type": "article",
-    "title": "Join 40,000+ Users: Localize Your Content Easily",
+    "title": "Aixster: Global Ready in Minutes with Automated Translations",
     "slug": "join-the-40-000-users-who-trust-localize-to-power",
     "path": "/content/join-the-40-000-users-who-trust-localize-to-power.mdx"
   }
