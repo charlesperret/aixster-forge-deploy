@@ -1,12 +1,5 @@
 [
   {
-    "id": "home",
-    "type": "home",
-    "title": "Aixster - The complete solution for modern businesses",
-    "slug": "index",
-    "path": "/content/index.mdx"
-  },
-  {
     "id": "pricing",
     "type": "pricing",
     "title": "Aixster Pricing",
@@ -30,9 +23,9 @@
   {
     "id": "comparison-1",
     "type": "comparison",
-    "title": "Aixster vs Weglot",
-    "slug": "comparisons-aixster-vs-weglot",
-    "path": "/content/comparisons-aixster-vs-weglot.mdx"
+    "title": "Aixster vs Conveythis",
+    "slug": "comparisons-aixster-vs-conveythis",
+    "path": "/content/comparisons-aixster-vs-conveythis.mdx"
   },
   {
     "id": "comparison-2",
@@ -44,9 +37,9 @@
   {
     "id": "comparison-3",
     "type": "comparison",
-    "title": "Aixster vs Conveythis",
-    "slug": "comparisons-aixster-vs-conveythis",
-    "path": "/content/comparisons-aixster-vs-conveythis.mdx"
+    "title": "Aixster vs Weglot",
+    "slug": "comparisons-aixster-vs-weglot",
+    "path": "/content/comparisons-aixster-vs-weglot.mdx"
   },
   {
     "id": "customers-index",
@@ -142,106 +135,106 @@
   {
     "id": "pillar-1",
     "type": "pillar",
+    "title": "AI Translation for CMS | Aixster",
+    "slug": "1-ai-powered-translation-solution-for-lovable-cms",
+    "path": "/content/1-ai-powered-translation-solution-for-lovable-cms.mdx"
+  },
+  {
+    "id": "pillar-2",
+    "type": "pillar",
     "title": "Aixster: Lovable Multilingual Solution for Global Reach",
     "slug": "lovable-multilingual-solution",
     "path": "/content/lovable-multilingual-solution.mdx"
   },
   {
-    "id": "pillar-2",
-    "type": "pillar",
-    "title": "AI-Powered Translation for CMS | Aixster",
-    "slug": "1-ai-powered-translation-solution-for-lovable-cms",
-    "path": "/content/1-ai-powered-translation-solution-for-lovable-cms.mdx"
-  },
-  {
     "id": "article-1",
     "type": "article",
-    "title": "Get Started in Minutes with Aixster: Fast, AI-Powered Translation",
-    "slug": "get-started-in-minutes",
-    "path": "/content/get-started-in-minutes.mdx"
+    "title": "Accelerate Website Translation with Aixster's Key Features",
+    "slug": "key-features-to-accelerate-your-website-translatio",
+    "path": "/content/key-features-to-accelerate-your-website-translatio.mdx"
   },
   {
     "id": "article-2",
     "type": "article",
-    "title": "Manage Your Translations with Ease | Aixster AI",
-    "slug": "easily-manage-your-translations",
-    "path": "/content/easily-manage-your-translations.mdx"
+    "title": "Get Started in Minutes with Aixster",
+    "slug": "get-started-in-minutes",
+    "path": "/content/get-started-in-minutes.mdx"
   },
   {
     "id": "article-3",
     "type": "article",
-    "title": "Global Reach with Aixster: Translate Your Website Today",
+    "title": "Expand Your Reach: Grow Globally with Aixster",
     "slug": "reach-visitors-all-over-the-world",
     "path": "/content/reach-visitors-all-over-the-world.mdx"
   },
   {
     "id": "article-4",
     "type": "article",
-    "title": "Go Multilingual with Ease using Aixster's Translation Solution",
-    "slug": "go-multilingual-with-ease",
-    "path": "/content/go-multilingual-with-ease.mdx"
+    "title": "Professional Translations with Aixster's Visual Editor",
+    "slug": "deliver-professional-grade-translations",
+    "path": "/content/deliver-professional-grade-translations.mdx"
   },
   {
     "id": "article-5",
     "type": "article",
-    "title": "Join Thousands of Satisfied Weglot Users with Aixster",
-    "slug": "join-thousands-of-satisfied-weglot-users",
-    "path": "/content/join-thousands-of-satisfied-weglot-users.mdx"
+    "title": "Aixster: Take Full Control of Your Translations",
+    "slug": "take-full-control-of-your-translations",
+    "path": "/content/take-full-control-of-your-translations.mdx"
   },
   {
     "id": "article-6",
     "type": "article",
-    "title": "Experience the Power of Aixster: Book Your Demo Today",
-    "slug": "take-a-product-demo",
-    "path": "/content/take-a-product-demo.mdx"
+    "title": "Connect with Global Audiences Authentically – Aixster",
+    "slug": "connect-with-global-audiences-authentically",
+    "path": "/content/connect-with-global-audiences-authentically.mdx"
   },
   {
     "id": "article-7",
     "type": "article",
-    "title": "Get Started with Aixster: Fast, AI-Powered Website Translation",
-    "slug": "learn-how-to-get-started",
-    "path": "/content/learn-how-to-get-started.mdx"
+    "title": "Easily Manage Translations with Aixster's Visual Editor",
+    "slug": "easily-manage-your-translations",
+    "path": "/content/easily-manage-your-translations.mdx"
   },
   {
     "id": "article-8",
     "type": "article",
-    "title": "Lovable Integration with Aixster: Your Questions Answered",
-    "slug": "frequently-asked-questions-about-lovable-integrati",
-    "path": "/content/frequently-asked-questions-about-lovable-integrati.mdx"
+    "title": "Why Choose Aixster for Your Multilingual Website?",
+    "slug": "why-choose-us",
+    "path": "/content/why-choose-us.mdx"
   },
   {
     "id": "article-9",
     "type": "article",
-    "title": "Weglot is Free: Try Now with Aixster!",
-    "slug": "weglot-is-free-try-now",
-    "path": "/content/weglot-is-free-try-now.mdx"
+    "title": "Get Started with Aixster: Your Multilingual SEO Journey",
+    "slug": "learn-how-to-get-started",
+    "path": "/content/learn-how-to-get-started.mdx"
   },
   {
     "id": "article-10",
+    "type": "article",
+    "title": "Aixster FAQ: Your Common Questions Answered",
+    "slug": "common-questions",
+    "path": "/content/common-questions.mdx"
+  },
+  {
+    "id": "article-11",
+    "type": "article",
+    "title": "Have a Question? Your Aixster Answers Await",
+    "slug": "have-a-different-question",
+    "path": "/content/have-a-different-question.mdx"
+  },
+  {
+    "id": "article-12",
     "type": "article",
     "title": "Effortless Localization with Aixster for Lovable",
     "slug": "effortless-localization-for-lovable",
     "path": "/content/effortless-localization-for-lovable.mdx"
   },
   {
-    "id": "article-11",
-    "type": "article",
-    "title": "Aixster: Effortless Setup, Global-Ready in Minutes",
-    "slug": "effortlessly-set-up-in-no-time",
-    "path": "/content/effortlessly-set-up-in-no-time.mdx"
-  },
-  {
-    "id": "article-12",
-    "type": "article",
-    "title": "Aixster FAQ: Automated Translation & Global Readiness",
-    "slug": "frequently-asked-questions",
-    "path": "/content/frequently-asked-questions.mdx"
-  },
-  {
     "id": "article-13",
     "type": "article",
-    "title": "Aixster: Global Ready in Minutes with Automated Translations",
-    "slug": "join-the-40-000-users-who-trust-localize-to-power",
-    "path": "/content/join-the-40-000-users-who-trust-localize-to-power.mdx"
+    "title": "Aixster: Effortless Setup, Global-Ready in No Time",
+    "slug": "effortlessly-set-up-in-no-time",
+    "path": "/content/effortlessly-set-up-in-no-time.mdx"
   }
 ]
