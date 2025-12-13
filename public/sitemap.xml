@@ -3,236 +3,236 @@
   <!-- Home page - highest priority -->
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Core pages -->
   <url>
     <loc>https://example.com/pricing</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://example.com/about</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/contact</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/comparisons</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://example.com/pricing</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/contact</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/comparisons</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/comparisons-your-solution-vs-weglot</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/comparisons-your-solution-vs-localizejs</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/comparisons-your-solution-vs-conveythis</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/customers</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/customers-techstart</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/customers-enterprise-solutions</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/customers-growthlabs</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/glossary</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/glossary-api-integration</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/glossary-saas</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/glossary-workflow-automation</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/glossary-digital-transformation</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/glossary-customer-success</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/about</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/privacy-policy</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/terms-of-service</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/lovable-multilingual-solution</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/1-ai-powered-translation-solution-for-lovable-cms</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/get-started-in-minutes</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/easily-manage-your-translations</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/reach-visitors-all-over-the-world</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/go-multilingual-with-ease</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/join-thousands-of-satisfied-weglot-users</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/take-a-product-demo</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/learn-how-to-get-started</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/frequently-asked-questions-about-lovable-integrati</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/weglot-is-free-try-now</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/effortless-localization-for-lovable</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/effortlessly-set-up-in-no-time</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/frequently-asked-questions</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://example.com/join-the-40-000-users-who-trust-localize-to-power</loc>
-    <lastmod>2025-12-12</lastmod>
+    <lastmod>2025-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
