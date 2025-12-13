@@ -2,66 +2,173 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../components/Layout';
 
+const BUSINESS_NAME = 'Lovalingo';
+
 const features = [
   {
     icon: '🌍',
     title: 'Global Reach',
-    description: 'Connect with audiences worldwide through seamless multilingual support.'
+    description: 'Connect with audiences worldwide through seamless multilingual support. Our platform handles over 100 languages with native-quality translations that resonate with local markets.'
   },
   {
     icon: '⚡',
     title: 'Lightning Fast',
-    description: 'AI-powered translations that are ready in seconds, not hours.'
+    description: 'AI-powered translations that are ready in seconds, not hours. Our neural network processes thousands of words per minute without sacrificing quality.'
   },
   {
     icon: '🎯',
     title: 'SEO Optimized',
-    description: 'Every translation is crafted for search engine visibility.'
+    description: 'Every translation is crafted for search engine visibility. We preserve meta tags, structured data, and keyword targeting across all languages.'
   },
   {
     icon: '🔒',
     title: 'Enterprise Security',
-    description: 'Bank-grade encryption protects your content and data.'
+    description: 'Bank-grade encryption protects your content and data. SOC 2 Type II certified with GDPR compliance built-in for peace of mind.'
   },
   {
     icon: '📊',
     title: 'Analytics Built-in',
-    description: 'Track engagement and performance across all languages.'
+    description: 'Track engagement and performance across all languages. Real-time dashboards show translation usage, traffic by language, and ROI metrics.'
   },
   {
     icon: '🤝',
     title: 'Easy Integration',
-    description: 'Works with your existing tools and workflows.'
+    description: 'Works with your existing tools and workflows. One-click integrations with WordPress, Shopify, React, Next.js, and all major platforms.'
   }
 ];
 
 const testimonials = [
   {
-    quote: 'This solution transformed our global expansion strategy. We saw 300% growth in international traffic within 3 months.',
+    quote: 'Lovalingo transformed our global expansion strategy. We saw 300% growth in international traffic within 3 months. The SEO optimization across languages gave us rankings we never thought possible.',
     author: 'Sarah Chen',
     role: 'VP of Marketing, TechStart Inc.',
     avatar: '👩‍💼'
   },
   {
-    quote: 'The best translation tool we have ever used. Accurate, fast, and the SEO results speak for themselves.',
+    quote: 'The best translation tool we have ever used. Accurate, fast, and the SEO results speak for themselves. Our German and French sites now outperform our English content in organic search.',
     author: 'Michael Roberts',
     role: 'Head of Content, GrowthLabs',
     avatar: '👨‍💻'
   },
   {
-    quote: 'Finally, a solution that understands enterprise needs. The ROI was evident within the first quarter.',
+    quote: 'Finally, a solution that understands enterprise needs. The ROI was evident within the first quarter. We reduced translation costs by 80% while improving quality scores.',
     author: 'Emily Zhang',
     role: 'Director of Operations, Enterprise Solutions',
     avatar: '👩‍🔬'
   }
 ];
 
+const howItWorks = [
+  {
+    step: '01',
+    title: 'Connect Your Website',
+    description: 'Simply paste your website URL or connect via our API. Our intelligent crawler automatically discovers all your content, including pages, blog posts, meta data, and structured content. The entire process takes less than 5 minutes for most websites.'
+  },
+  {
+    step: '02',
+    title: 'Choose Target Languages',
+    description: 'Select from over 100 languages with native-quality translations. Our AI understands context, idioms, and cultural nuances to deliver translations that truly resonate with local audiences. Set language-specific SEO keywords for maximum search visibility.'
+  },
+  {
+    step: '03',
+    title: 'Review & Customize',
+    description: 'Our editor gives you full control over every translation. Built-in glossaries ensure brand consistency, while collaborative review tools let your team approve content before publishing. Changes sync instantly across all your platforms.'
+  },
+  {
+    step: '04',
+    title: 'Deploy & Monitor',
+    description: 'One-click deployment publishes your multilingual content with proper hreflang tags, language subdirectories, and SEO-optimized URLs. Real-time analytics track performance by language, helping you identify your strongest markets.'
+  }
+];
+
+const detailedFeatures = [
+  {
+    category: 'Translation Engine',
+    items: [
+      'Neural Machine Translation (NMT) with 99.2% accuracy score',
+      'Context-aware translations that understand your industry terminology',
+      'Automatic tone matching to preserve your brand voice',
+      'Real-time translation memory that learns from your corrections',
+      'Support for HTML, Markdown, JSON, and plain text formats'
+    ]
+  },
+  {
+    category: 'SEO Optimization',
+    items: [
+      'Automatic hreflang tag generation and validation',
+      'Language-specific keyword research and optimization',
+      'Localized meta titles and descriptions (50-60 / 150-160 chars)',
+      'Schema.org markup preservation across all languages',
+      'XML sitemap generation with language alternates',
+      'Canonical URL management for multilingual content'
+    ]
+  },
+  {
+    category: 'Integration & Deployment',
+    items: [
+      'WordPress plugin with one-click installation',
+      'Shopify app for e-commerce translation',
+      'REST API for custom integrations',
+      'CDN-powered delivery for sub-100ms response times',
+      'Language subdirectory and subdomain support',
+      'Automatic SSL certificate provisioning'
+    ]
+  },
+  {
+    category: 'Enterprise Features',
+    items: [
+      'SSO/SAML authentication for team access',
+      'Role-based permissions and approval workflows',
+      'Custom glossaries and translation memories',
+      'Dedicated success manager and priority support',
+      'SLA guarantees with 99.99% uptime',
+      'On-premise deployment options available'
+    ]
+  }
+];
+
+const faqs = [
+  {
+    question: 'How accurate are Lovalingo translations compared to human translators?',
+    answer: 'Our neural translation engine achieves 99.2% accuracy on standardized tests, comparable to professional human translators. For critical content, our hybrid approach combines AI translation with human review to ensure perfect quality. Most customers report that our AI translations require minimal to no editing.'
+  },
+  {
+    question: 'How does Lovalingo handle SEO for multilingual websites?',
+    answer: 'We automatically implement all SEO best practices including hreflang tags, language-specific sitemaps, localized meta data, and proper URL structures. Our system preserves your existing SEO work while optimizing for each target language. Most customers see ranking improvements within 4-6 weeks of deployment.'
+  },
+  {
+    question: 'Can I customize translations to match my brand voice?',
+    answer: 'Absolutely. Our platform includes custom glossaries, brand style guides, and tone settings. You can define industry-specific terminology, preferred phrases, and words to avoid. The AI learns from your corrections over time, continuously improving to match your unique voice.'
+  },
+  {
+    question: 'What platforms and CMS systems does Lovalingo integrate with?',
+    answer: 'We offer native integrations with WordPress, Shopify, Webflow, Contentful, Sanity, Strapi, and more. Our REST API works with any platform, and we provide SDKs for React, Next.js, Vue, and Angular. Most integrations take less than 15 minutes to set up.'
+  },
+  {
+    question: 'How long does it take to translate an entire website?',
+    answer: 'Initial translation depends on your website size. A typical 50-page website is fully translated in under 30 minutes. Enterprise sites with thousands of pages complete within a few hours. Incremental updates happen in real-time as you publish new content.'
+  },
+  {
+    question: 'Is my content secure with Lovalingo?',
+    answer: 'Yes, security is our top priority. We are SOC 2 Type II certified, GDPR compliant, and use AES-256 encryption for all data at rest and in transit. Your content is never used to train our AI models. Enterprise customers can also choose on-premise deployment for maximum control.'
+  },
+  {
+    question: 'What happens if I am not satisfied with the translation quality?',
+    answer: 'We offer a 30-day money-back guarantee for all new customers. Our support team can work with you to fine-tune translations, and we provide unlimited revision requests during your subscription. Most quality concerns are resolved within 24 hours.'
+  },
+  {
+    question: 'How does pricing work for Lovalingo?',
+    answer: 'We offer flexible plans based on your word count and feature needs. Starter is free for small sites, Professional scales with your growth at $49/month, and Enterprise provides unlimited translations with dedicated support. All plans include our core SEO optimization features.'
+  }
+];
+
 export default function Home() {
   return (
-    <Layout>
+    <Layout businessName={BUSINESS_NAME}>
       <Head>
-        <title>Aixster - #1 AI-Powered Translation Solution</title>
-        <meta name="description" content="Transform your global presence with AI-powered translations that drive traffic and conversions." />
+        <title>{BUSINESS_NAME} - #1 AI-Powered Website Translation Platform</title>
+        <meta name="description" content="Transform your global presence with AI-powered translations that drive traffic and conversions. 100+ languages, SEO-optimized, enterprise-ready. Start free today." />
+        <link rel="canonical" href="https://example.com/" />
       </Head>
       
       <style jsx>{`
